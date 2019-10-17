@@ -13,12 +13,12 @@ namespace TareaProxy1
 
             for(int i = 0; i < 10; i++)
             {
-                int? a;
-                if (aux[i].ReplyCount != null)
-                    a = aux[i].ReplyCount;
-                else
-                    a = 0;
-                string str = a.ToString();
+                //int? a;
+                //if (aux[i].ReplyCount != null)
+                //    a = aux[i].ReplyCount;
+                //else
+                //    a = 0;
+                //string str = a.ToString();
                 //int? a = aux[i].ReplyCount;
                 //string str = "0";
                 //if (a.HasValue)
@@ -26,7 +26,7 @@ namespace TareaProxy1
                 //    str = a.Value.ToString();
                 //}
                 
-                Console.WriteLine("\nTweet:" + aux[i].FullText + "\nURL:" + aux[i].URL + "\nCreated At:" + aux[i].CreatedAt.ToString() + "\nReply Count:" + str + "\nLanguage:" + aux[i].Langu.ToString());
+                Console.WriteLine("\nTweet:" + aux[i].FullText + "\nURL:" + aux[i].URL + "\nCreated At:" + aux[i].CreatedAt.ToString() + "\nLanguage:" + aux[i].Langu.ToString());
             }
         }
     }
