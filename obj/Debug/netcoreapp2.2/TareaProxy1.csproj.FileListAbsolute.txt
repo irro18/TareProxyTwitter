@@ -1,0 +1,11 @@
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\TareaProxy1\bin\Debug\netcoreapp2.2\TareaProxy1.deps.json
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\TareaProxy1\bin\Debug\netcoreapp2.2\TareaProxy1.runtimeconfig.json
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\TareaProxy1\bin\Debug\netcoreapp2.2\TareaProxy1.runtimeconfig.dev.json
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\TareaProxy1\bin\Debug\netcoreapp2.2\TareaProxy1.dll
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\TareaProxy1\obj\Debug\netcoreapp2.2\TareaProxy1.csprojAssemblyReference.cache
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\TareaProxy1\obj\Debug\netcoreapp2.2\TareaProxy1.csproj.CoreCompileInputs.cache
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\TareaProxy1\obj\Debug\netcoreapp2.2\TareaProxy1.AssemblyInfoInputs.cache
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\TareaProxy1\obj\Debug\netcoreapp2.2\TareaProxy1.AssemblyInfo.cs
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\TareaProxy1\bin\Debug\netcoreapp2.2\TareaProxy1.pdb
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\TareaProxy1\obj\Debug\netcoreapp2.2\TareaProxy1.dll
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\TareaProxy1\obj\Debug\netcoreapp2.2\TareaProxy1.pdb

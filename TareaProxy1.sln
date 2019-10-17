@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaProxy1", "TareaProxy1.csproj", "{122E1417-E56E-46DA-ADD5-707A12F5054D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122E1417-E56E-46DA-ADD5-707A12F5054D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122E1417-E56E-46DA-ADD5-707A12F5054D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122E1417-E56E-46DA-ADD5-707A12F5054D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122E1417-E56E-46DA-ADD5-707A12F5054D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B873F232-0A2E-429F-BE26-E9654FA1FF1C}
+	EndGlobalSection
+EndGlobal
